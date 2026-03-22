@@ -1,6 +1,4 @@
 # daily_stock_analysis_openclaw_skills
-
-基于daily_stock_analysis 项目，本地对接openclaw运行的自选股智能分析系统skill
 ## 概述
 
 基于本地daily_stock_analysis 项目，对接openclaw运行的自选股智能分析系统skill
